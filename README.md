@@ -39,6 +39,3 @@ Proje, modern yazılım geliştirme standartlarına uygun olarak Backend ve Fron
 
 
 
-### 1. Depoyu Klonlayın
-```bash
-git clone [https://github.com/drsncan/Bulut_Bilisim_Proje_2.git](https://github.com/drsncan/Bulut_Bilisim_Proje_2.git)
